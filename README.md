@@ -59,7 +59,4 @@ Assim que todo processo acabar, será aberta a página `` localhost:19002 `` no 
 
 ![](https://ik.imagekit.io/hiltonr/Be-The-Hero-Web_-GmycMGuH.gif)
 
-
-<h1>
-    <img src="https://ik.imagekit.io/hiltonr/be-the-hero-mobile_j4-rXK0rs.gif" width="120px">
-</h1>
+![](https://ik.imagekit.io/hiltonr/be-the-hero-mobile_j4-rXK0rs.gif)
